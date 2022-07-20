@@ -1,4 +1,6 @@
 runtime: nodejs10
 
+enviorment_variables:
+  CLOUD_INSTANCE: high-tribute-356919:us-central1:app-engine
 env_variables:
   CLOUD_INSTANCE: fake-instance
